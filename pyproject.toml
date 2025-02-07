@@ -2,7 +2,7 @@
 name = "real_estate_rental_price_prediction"
 version = "0.1.0"
 description = "Machine Learning model to help renters make informed decisions when renting a property."
-authors = [{ name = "Sherif Olanrewaju", email = "tibetianwolf@gmail.com" }]
+authors = [{ name = "Sherif Olanrewaju", email = "sherif.olanrewaju@mygeorgian.ca" }]
 requires-python = "==3.10.*"
 dependencies = [
     "numpy",
